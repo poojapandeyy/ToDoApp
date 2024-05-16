@@ -7,14 +7,14 @@
 2. Delete tasks.</br></br>
 
 <p>Technologies Used</p>
-React</br>
-JSX</br>
-Tailwind CSS</br>
+1. React</br>
+2. JSX</br>
+3. Tailwind CSS</br>
 
 
 <p>Open your browser and visit http://localhost:3000 to view the app.</p></br>
 
 <p>Usage</p>
-Enter a task title and description in the input fields. </br>
-Click the "Add Task" button to add the task to the list.</br>
-To delete a task, click the "Delete" button next to the task.</br>
+1. Enter a task title and description in the input fields. </br>
+2. Click the "Add Task" button to add the task to the list.</br>
+3. To delete a task, click the "Delete" button next to the task.</br>
