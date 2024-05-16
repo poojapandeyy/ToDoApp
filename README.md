@@ -10,7 +10,7 @@
 1. React</br>
 2. JSX</br>
 3. Tailwind CSS</br>
-
+</br></br>
 
 <p>Open your browser and visit http://localhost:3000 to view the app.</p></br>
 
