@@ -4,7 +4,7 @@
 
 <p>Features</p>
 1. Add tasks with a title and description. </br>
-2. Delete tasks.</br>
+2. Delete tasks.</br></br>
 
 <p>Technologies Used</p>
 React</br>
@@ -12,9 +12,9 @@ JSX</br>
 Tailwind CSS</br>
 
 
-Open your browser and visit http://localhost:3000 to view the app.
+<p>Open your browser and visit http://localhost:3000 to view the app.</p></br>
 
-Usage
-Enter a task title and description in the input fields.
-Click the "Add Task" button to add the task to the list.
-To delete a task, click the "Delete" button next to the task.
+<p>Usage</p>
+Enter a task title and description in the input fields. </br>
+Click the "Add Task" button to add the task to the list.</br>
+To delete a task, click the "Delete" button next to the task.</br>
